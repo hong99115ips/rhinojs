@@ -1,3 +1,4 @@
+
 # RhinoJS
 RhinoJS 是一款基于 jQuery + PHP 开发的前后端框架。它模拟 Node.js 的路由方式运作。
 
@@ -21,4 +22,23 @@ RhinoJS 是一款基于 jQuery + PHP 开发的前后端框架。它模拟 Node.j
 ## 前段程序要求
  - jQuery 3.4.1
  - Bootstrap 4.4.1
+
+## 网址应用例子
+**基本网址：（例子：www.example.com）**
+
+    [BASE_URL]
+    
+**About 页面：（例子：www.example.com#about）**
+
+    [BASE_URL]#about
+   
+**呼叫 API：（例子：www.example.com）**
+
+
+    [BASE_URL]
+|参数|例子|
+|--|--|
+|*request*|login|
+|*username*|admin|
+|*password*|123123|
 
