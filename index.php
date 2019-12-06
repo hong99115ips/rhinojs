@@ -8,8 +8,8 @@ ______ _     _
 
 Version		1.0
 Date		26/11/2019
-Author		Steve Hong (//hong115.com/)
-Company		IT Partnership Solution (//ips.com.my/)
+Author		Steve Hong (https://hong115.com/)
+Company		IT Partnership Solution (https://ips.com.my/)
 -->
 <html>
 
