@@ -1,0 +1,43 @@
+html,body,input,button,option,select,textarea,h1,h2,h3,h4,h5,h6{
+	font-family:"Arial","Microsoft YaHei",serif
+}
+
+#wrapper #content-wrapper {
+	padding: 0;
+}
+
+.sidebar {
+	background-color: #2b2f3e;
+}
+
+table,
+.navbar-nav .nav-item .nav-link,
+.sidebar .nav-item .nav-link span,
+.nav-item .dropdown-item {
+	font-size: 14px;
+}
+
+.navbar-nav .nav-item .nav-link {
+	padding: .75rem 1rem;
+}
+
+.sidebar-toggled .sidebar .hide {
+    display: none !important;
+}
+
+.sidebar-toggled .sidebar img {
+    margin-bottom: 1rem;
+    width: 50% !important;
+}
+
+.scroll-to-top i {
+	margin-top: 1rem;
+}
+
+.h-min-100 {
+	min-height: 100%;
+}
+
+#wrapper {
+	min-height: 100%;
+}
